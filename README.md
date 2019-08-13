@@ -1,5 +1,6 @@
 ## Sentiment Analysis towards smartphone using Amazon Web Services
 
+### General Description
 In this project, we analyse the sentiment towards smartphone for the use of medical apps for aid workers in developing countries. 
 In order to do it in large scale, we used Amazon Web services which is one of the most widely used cloud services.
 
